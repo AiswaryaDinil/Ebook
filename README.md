@@ -48,4 +48,5 @@ Now to make our class based views work we need url routing. By default we have a
 * retrieve a list of books associate with an author,genre,title
 
 ## ScreenShots
-![](https://github.com/AiswaryaDinil/Ebook/images/Screenshot 1.png)
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/AiswaryaDinil/Ebook/blob/master/images/Screenshot%201.png)
