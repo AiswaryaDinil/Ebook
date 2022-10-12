@@ -47,5 +47,5 @@ Now to make our class based views work we need url routing. By default we have a
 * Delete the added books
 * retrieve a list of books associate with an author,genre,title
 
-##ScreenShots
-![]([https://github.com/AiswaryaDinil/Ebook/blob/master/images/Screenshot%201.png)
+## ScreenShots
+![]([https://github.com/AiswaryaDinil/Ebook/blob/master/images/Screenshot 1.png)
