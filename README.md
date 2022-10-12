@@ -48,4 +48,4 @@ Now to make our class based views work we need url routing. By default we have a
 * retrieve a list of books associate with an author,genre,title
 
 ##ScreenShots
-![](https://github.com/AiswaryaDinil/Ebook/images/Screenshot 2022-10-12 142623.png)
+![]([https://github.com/AiswaryaDinil/Ebook/blob/master/images/Screenshot%201.png)
