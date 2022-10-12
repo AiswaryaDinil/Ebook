@@ -1,4 +1,4 @@
-## _Django-Ecommece-Book_
+## _Django-Ecommerce-Book_
 <p>An online bookstore web API implementing basic online store functionalities.:) </p>
 
  ### Stack
