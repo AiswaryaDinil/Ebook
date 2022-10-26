@@ -8,8 +8,8 @@ from rest_framework import status
 class BookTestCase(APITestCase):
     def test_book(self):
         book_data = {
-            'title': 'shiva',
-            'author': 'priya',
+            'title': 'aiswarya',
+            'author': 'dinil',
             'genre': 'mystery',
             'favourite': False
         }
